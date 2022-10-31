@@ -1,0 +1,8 @@
+Notes for Havyaka haadu project
+-------------------------------
+Websites:
+A. Design
+  1. Dribble (for design ideas) - https://dribble.com/
+  2. Fluid UI (Prototype) - https://fluidui.com/
+  3. Colour palettes - https://coolors.co/palettes/
+  4. Canva (prototype - to consider) - https://www.canva.com/
