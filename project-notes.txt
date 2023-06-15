@@ -6,3 +6,6 @@ A. Design
   2. Fluid UI (Prototype) - https://fluidui.com/
   3. Colour palettes - https://coolors.co/palettes/
   4. Canva (prototype - to consider) - https://www.canva.com/
+
+B. Flutter
+  1. Flutter UI design: https://app.flutterflow.io/
